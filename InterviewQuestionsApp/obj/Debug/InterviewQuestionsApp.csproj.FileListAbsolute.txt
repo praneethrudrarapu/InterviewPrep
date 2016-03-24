@@ -1,0 +1,6 @@
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\bin\InterviewQuestionsApp.dll.config
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\bin\InterviewQuestionsApp.dll
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\bin\InterviewQuestionsApp.pdb
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\obj\Debug\InterviewQuestionsApp.csprojResolveAssemblyReference.cache
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\obj\Debug\InterviewQuestionsApp.dll
+c:\users\prudrarapu\documents\visual studio 2013\Projects\InterviewQuestionsApp\InterviewQuestionsApp\obj\Debug\InterviewQuestionsApp.pdb
